@@ -1,4 +1,5 @@
 # speedh
+Created December 2023
 Four way chess clock for four player board/card games with long turns, such as risk, elder dragon highlander, etc.
 Turn is passed by hiting the timer of another player, which starts their timer. Or, the center button can be pressed which pauses all timers. Default setting is 25 minutes for each player.
 
